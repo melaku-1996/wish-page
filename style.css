@@ -1,0 +1,28 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.home{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: radial-gradient(royalblue, orange);
+}
+.home h3{
+  font-size: 35px;
+  font-style: italic;
+  transform: rotateZ(-20deg);
+}
+.green{
+  color: rgb(32, 198, 32);
+}
+.yellow{
+  color: yellow;
+
+}
+.red{
+  color: red;
+}
